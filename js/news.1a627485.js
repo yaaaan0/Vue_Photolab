@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["news"],{a2f9:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"news"}},[t("vue-page-transition",{attrs:{name:"fade-in-up"}},[t("router-view")],1)],1)},s=[],r={name:"news"},i=r,u=t("2877"),w=Object(u["a"])(i,a,s,!1,null,null,null);n["default"]=w.exports}}]);
+//# sourceMappingURL=news.1a627485.js.map

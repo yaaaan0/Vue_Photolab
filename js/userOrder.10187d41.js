@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["userOrder"],{"0435":function(e,r,n){"use strict";n.r(r);var t=function(){var e=this,r=e.$createElement,n=e._self._c||r;return n("div",{attrs:{id:"userOrder"}},[n("vue-page-transition",{attrs:{name:"fade-in-up"}},[n("router-view")],1)],1)},a=[],s={name:"UserOrder"},u=s,i=n("2877"),d=Object(i["a"])(u,t,a,!1,null,null,null);r["default"]=d.exports}}]);
+//# sourceMappingURL=userOrder.10187d41.js.map

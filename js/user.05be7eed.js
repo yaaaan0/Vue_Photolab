@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{1511:function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"user"}},[t("UserMenu"),t("vue-page-transition",{attrs:{name:"fade-in-up"}},[t("router-view")],1)],1)},s=[],u=t("92e7"),a={name:"user",components:{UserMenu:u["a"]},methods:{}},i=a,o=t("2877"),c=Object(o["a"])(i,r,s,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=user.05be7eed.js.map
